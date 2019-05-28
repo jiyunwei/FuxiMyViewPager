@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="my_name" format="string"/>
+    <attr name="my_age" format="integer"/>
+    <attr name="my_bg" format="reference"/>
+
+    <declare-styleable name="MyCustomView">
+        <attr name="my_name"/>
+        <attr name="my_age"/>
+        <attr name="my_bg"/>
+    </declare-styleable>
+
+</resources>
